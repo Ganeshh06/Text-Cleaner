@@ -270,7 +270,7 @@ export default function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Coded by 
+          Coded by Ganesh
         </a>
       </footer>
     </div>
