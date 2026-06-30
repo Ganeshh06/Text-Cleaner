@@ -9,7 +9,7 @@ Just paste and clean.
 
 ## Live Demo
 
-https://text-cleaner-orpin.vercel.app/
+https://text-cleanerr.netlify.app/
 
 ---
 
